@@ -52,3 +52,14 @@ Feel free to reach out at 298057soheil@gmail.com
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheil-1994&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+<br/>
+<br/>
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/soheilsinaei"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:298057soheil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
