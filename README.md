@@ -9,7 +9,7 @@
 Fullstack developer with nearly 10 years of experience. I'm always ready to tackle challenging projects, quickly learn new technologies, and deliver the best possible results.
 I specialize in responsive design, cross-browser compatibility, and writing reusable, maintainable code.<br/> I’m dedicated to learning whatever it takes to ensure project success.
 <br/>
-Feel free to reach out at smae1993@gmail.com
+Feel free to reach out at 298057soheil@gmail.com
 
 <br/>
 <br/>
@@ -47,8 +47,8 @@ Feel free to reach out at smae1993@gmail.com
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smae1993">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smae1993&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smae1993&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/soheil-1994">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheil-1994&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheil-1994&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
